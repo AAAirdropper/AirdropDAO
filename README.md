@@ -55,11 +55,14 @@ the airdropped token is selected by community,using UMA,sbapshot voting,called O
 ３.push button to get some ft or NFT
 
 
+
 ## Future Work
 [TBD]
 1.Realize sybil attack resistance, selecting some ID solution.
-2.We will start advertisement function for the company that want to sell some product and for users that want to trade without paying gas.
-3.Find ecosystem partners.
+2.raise security of the wallet.
+3.We will start advertisement function for the company that want to sell some product and for users that want to trade without paying gas.
+4.Find ecosystem partners.
+
 
 ## TechStack
 
